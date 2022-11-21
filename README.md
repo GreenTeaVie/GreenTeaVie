@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GreenTeaVie
 - 👀 I’m interested in web dev and video games making
-- 🌱 I’m currently learning how to use Zola
+- 🌱 I’m currently doing stuff
 - 📫 How to reach me : 
 
         - telegram @greenteavie
