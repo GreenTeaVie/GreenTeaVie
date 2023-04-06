@@ -20,7 +20,7 @@
 ```json
 {
   "languages": {
-    "core": [ "C", "C++", "Rust", "Lua", "Dart", ],
+    "core": [ "C", "C++", "Rust", "Lua", "Dart" ],
     "web": [ "HTML", "CSS", "JQuery", "Typescript", "Javascript" ]
   },
   "framework": [
