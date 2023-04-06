@@ -10,8 +10,8 @@
     # Hi, I’m @GreenTeaVie 🍵
 
     I’m a 27 y.o developer, based in France.
-    My interest are web and video games devolvement.
-    I also like to draw and write.
+    My interest are web and games development.
+    I also like to draw and write sometimes.
 </div>
 <div align="center">
     # Languages and tech I like ♡
