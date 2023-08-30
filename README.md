@@ -51,9 +51,6 @@
 
 #### *Social network*
 
-<a style="text-decoration: none;" href="https://twitter.com/GreenTeaVie">
-    <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=twitter&logo=twitter&style=for-the-badge&logoColor=white&labelColor=181825&color=c7f6f9" />
-</a>
 <a style="text-decoration: none;" href="https://misskey.xania.fr/@GreenTeaVie">
     <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=mastodon&logo=mastodon&style=for-the-badge&logoColor=white&labelColor=181825&color=BBB0EA" />
 </a>
