@@ -8,7 +8,11 @@
 </div>
 
 <div align="center">
-    # Hi, I’m @GreenTeaVie 🍵
+
+# Hi, I’m @GreenTeaVie 🍵
+
+    
+<img height="125px" src="./Rin_Shima_Programming_In_Lua.png">
 
     I’m a 27 y.o developer, based in France.
     My interest are web and games development.
@@ -16,7 +20,9 @@
 </div>
 
 <div align="center">
-    # languages and tech I like ♡
+
+# # languages and tech I like ♡
+
 </div>
 
 ```javascript
@@ -38,17 +44,31 @@
 }
 ```
 
-## tools I use
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vscodium.svg" /> vscodium &emsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/krita.svg" /> Krita
+<div align="center">
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" /> git &emsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aseprite.svg" /> Aseprite
+## # tools I use
 
-## things I want to learn
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vulkan.svg" /> Vulkan &emsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/godotengine.svg" /> Godot
+<img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=vscodium&logo=vscodium&style=for-the-badge&logoColor=white&labelColor=181825&color=00bfff" /> 
+<img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=krita&logo=krita&style=for-the-badge&logoColor=white&labelColor=181825&color=e13cf0" />
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ansible.svg" /> Ansible &emsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg" /> Blender
+<img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=git&logo=git&style=for-the-badge&logoColor=white&labelColor=181825&color=ffa500" /> 
+<img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=aseprite&logo=aseprite&style=for-the-badge&logoColor=white&labelColor=181825&color=7d929e" />
+</div>
+
+
+
+<div align="center">
+
+## # things I want to learn
+
+<img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=vulkan&logo=vulkan&style=for-the-badge&logoColor=white&labelColor=181825&color=ff4d4d" /> 
+<img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=godotengine&logo=godotengine&style=for-the-badge&logoColor=white&labelColor=181825&color=67b2ff" />
+
+<img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=ansible&logo=ansible&style=for-the-badge&logoColor=white&labelColor=181825&color=c71585" /> 
+<img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=blender&logo=blender&style=for-the-badge&logoColor=white&labelColor=181825&color=ff681b" />
+</div>
 
 #### *how to reach me*
 
@@ -58,6 +78,7 @@
 <a style="text-decoration: none;" href="https://matrix.to/#/@greenteavie:matrix.org">
     <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=matrix&logo=matrix&style=for-the-badge&logoColor=white&labelColor=181825&color=bbf29b" />
 </a>
+
 
 <!---
 GreenTeaVie/GreenTeaVie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
