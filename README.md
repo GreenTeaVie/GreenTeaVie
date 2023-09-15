@@ -44,7 +44,6 @@
 }
 ```
 
-
 <div align="center">
 
 ## # tools I use
@@ -56,8 +55,6 @@
 <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=git&logo=git&style=for-the-badge&logoColor=white&labelColor=181825&color=ffa500" /> 
 <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=aseprite&logo=aseprite&style=for-the-badge&logoColor=white&labelColor=181825&color=7d929e" />
 </div>
-
-
 
 <div align="center">
 
@@ -78,7 +75,6 @@
 <a style="text-decoration: none;" href="https://matrix.to/#/@greenteavie:matrix.org">
     <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=matrix&logo=matrix&style=for-the-badge&logoColor=white&labelColor=181825&color=bbf29b" />
 </a>
-
 
 <!---
 GreenTeaVie/GreenTeaVie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
