@@ -11,7 +11,6 @@
 
 # Hi, I’m @GreenTeaVie 🍵
 
-    
 <img height="125px" src="./Rin_Shima_Programming_In_Lua.png">
 
     I’m a 27 y.o developer, based in France.
