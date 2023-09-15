@@ -4,4 +4,4 @@
 https://shields.io/
 
 ## Icons
-https://github.com/Templarian/MaterialDesign/tree/master
+https://github.com/simple-icons/simple-icons

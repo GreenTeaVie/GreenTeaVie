@@ -14,54 +14,49 @@
     My interest are web and games development.
     I also like to draw and write sometimes.
 </div>
+
 <div align="center">
-    # Languages and tech I like ♡
+    # languages and tech I like ♡
 </div>
 
-```json
+```javascript
 {
-  "languages": {
-    "core": [ "C", "C++", "Rust", "Lua", "Dart", "Java" ],
-    "web": [ "HTML", "CSS", "JQuery", "Typescript", "Javascript" ]
-  },
-  "framework": [
-    "Flutter",
-    "Astro", 
-    "Fresh"
+  languages: [
+        "C", "C++", "Rust",
+        "Lua", "Dart", "Java",
+        "HTML", "CSS", "JQuery",
+        "Typescript", "Javascript"
   ],
-  "tools": [
-    "vscodium", "git",
-    "Krita", "Aseprite"
+  web: [
+    "Astro",
+    "Fresh",
+    "Deno"
   ],
-  "things_i_want_to_learn": [
-    "Godot", "Blender",
-    "Vulkan", "Ansible"
+  mobile: [
+    "Flutter"
   ]
 }
 ```
 
-#### *How to reach me*
+## tools I use
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vscodium.svg" /> vscodium &emsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/krita.svg" /> Krita
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" /> git &emsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aseprite.svg" /> Aseprite
+
+## things I want to learn
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vulkan.svg" /> Vulkan &emsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/godotengine.svg" /> Godot
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ansible.svg" /> Ansible &emsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg" /> Blender
+
+#### *how to reach me*
 
 <a style="text-decoration: none;" href="https://t.me/greenteavie">
     <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=telegram&logo=telegram&style=for-the-badge&logoColor=white&labelColor=181825&color=8df8ff" />
 </a>
 <a style="text-decoration: none;" href="https://matrix.to/#/@greenteavie:matrix.org">
     <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=matrix&logo=matrix&style=for-the-badge&logoColor=white&labelColor=181825&color=bbf29b" />
-</a>
-
-#### *Social network*
-
-<a style="text-decoration: none;" href="https://misskey.xania.fr/@GreenTeaVie">
-    <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=mastodon&logo=mastodon&style=for-the-badge&logoColor=white&labelColor=181825&color=BBB0EA" />
-</a>
-<a style="text-decoration: none;" href="https://www.youtube.com/channel/UC-wBhOA-nVA3_UXNbXp_0ag">
-    <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=youtube&logo=youtube&style=for-the-badge&logoColor=white&labelColor=181825&color=ff969f" />
-</a>
-<a style="text-decoration: none;" href="https://bandcamp.com/greenteavie">
-    <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=bandcamp&logo=bandcamp&style=for-the-badge&logoColor=white&labelColor=181825&color=f3abff" />
-</a>
-<a style="text-decoration: none;" href="https://ko-fi.com/greenteavie">
-    <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=kofi&logo=kofi&style=for-the-badge&logoColor=white&labelColor=181825&color=ffdfba" />
 </a>
 
 <!---
