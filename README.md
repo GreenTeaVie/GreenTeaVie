@@ -34,10 +34,12 @@
   ],
   web: [
     "Astro",
-    "Fresh",
     "Deno"
   ],
   mobile: [
+    "Flutter"
+  ]
+   mobile: [
     "Flutter"
   ]
 }
@@ -47,23 +49,41 @@
 
 ## # tools I use
 
+<a href="https://vscodium.com/">
+  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=vscodium&logo=vscodium&style=for-the-badge&logoColor=white&labelColor=181825&color=00bfff" /> 
+</a>
+<a href="https://krita.org/">
+  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=krita&logo=krita&style=for-the-badge&logoColor=white&labelColor=181825&color=e13cf0" />
+</a>
 
-<img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=vscodium&logo=vscodium&style=for-the-badge&logoColor=white&labelColor=181825&color=00bfff" /> 
-<img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=krita&logo=krita&style=for-the-badge&logoColor=white&labelColor=181825&color=e13cf0" />
-
-<img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=git&logo=git&style=for-the-badge&logoColor=white&labelColor=181825&color=ffa500" /> 
-<img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=aseprite&logo=aseprite&style=for-the-badge&logoColor=white&labelColor=181825&color=7d929e" />
+<a href="https://git-scm.com/">
+  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=git&logo=git&style=for-the-badge&logoColor=white&labelColor=181825&color=ffa500" /> 
+</a>
+<a href="https://www.aseprite.org/">
+  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=aseprite&logo=aseprite&style=for-the-badge&logoColor=white&labelColor=181825&color=7d929e" />
+</a>
+<a href="https://love2d.org/">
+  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=love2D&logo=lua&style=for-the-badge&logoColor=white&labelColor=181825&color=ff5a77 " />
+</a>
 </div>
 
 <div align="center">
 
 ## # things I want to learn
 
-<img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=vulkan&logo=vulkan&style=for-the-badge&logoColor=white&labelColor=181825&color=ff4d4d" /> 
-<img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=godotengine&logo=godotengine&style=for-the-badge&logoColor=white&labelColor=181825&color=67b2ff" />
+<a href="https://www.vulkan.org/">
+  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=vulkan&logo=vulkan&style=for-the-badge&logoColor=white&labelColor=181825&color=ff4d4d" /> 
+</a>
+<a href="https://godotengine.org/">
+  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=godotengine&logo=godotengine&style=for-the-badge&logoColor=white&labelColor=181825&color=67b2ff" />
+</a>
 
-<img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=ansible&logo=ansible&style=for-the-badge&logoColor=white&labelColor=181825&color=c71585" /> 
-<img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=blender&logo=blender&style=for-the-badge&logoColor=white&labelColor=181825&color=ff681b" />
+<a href="https://docs.ansible.com/">
+  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=ansible&logo=ansible&style=for-the-badge&logoColor=white&labelColor=181825&color=c71585" /> 
+</a>
+<a href="https://www.blender.org/">
+  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=blender&logo=blender&style=for-the-badge&logoColor=white&labelColor=181825&color=ff681b" />
+</a>
 </div>
 
 #### *how to reach me*
