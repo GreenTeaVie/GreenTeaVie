@@ -39,9 +39,6 @@
   mobile: [
     "Flutter"
   ]
-   mobile: [
-    "Flutter"
-  ]
 }
 ```
 
