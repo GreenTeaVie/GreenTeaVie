@@ -12,75 +12,64 @@
 # Hi, I’m @GreenTeaVie 🍵
 
 <img height="125px" src="./Rin_Shima_Programming_In_Lua.png">
+<img height="125px" src="./Nene_Sakura_Rust.png">
 
-    I’m a 27 y.o developer, based in France.
+    I’m a 28 y.o developer, based in France.
     My interest are web and games development.
     I also like to draw and write sometimes.
 </div>
 
 <div align="center">
 
-# # languages and tech I like ♡
+# # languages I like ♡
 
 </div>
 
-```javascript
+```json
 {
-  languages: [
+  "languages": [
         "C", "C++", "Rust",
         "Lua", "Dart", "Java",
         "HTML", "CSS", "JQuery",
         "Typescript", "Javascript"
-  ],
-  web: [
-    "Astro",
-    "Deno"
-  ],
-  mobile: [
-    "Flutter"
   ]
 }
 ```
 
 <div align="center">
 
-## # tools I use
+## # things I use and are interest in
 
 <a href="https://vscodium.com/">
   <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=vscodium&logo=vscodium&style=for-the-badge&logoColor=white&labelColor=181825&color=00bfff" /> 
 </a>
+<a href="https://deno.com/">
+  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=Deno&logo=deno&style=for-the-badge&logoColor=white&labelColor=181825&color=82c7a6 " />
+</a>
+<a href="https://docs.ansible.com/">
+  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=ansible&logo=ansible&style=for-the-badge&logoColor=white&labelColor=181825&color=c71585" /> 
+</a>
+
 <a href="https://krita.org/">
   <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=krita&logo=krita&style=for-the-badge&logoColor=white&labelColor=181825&color=e13cf0" />
+</a>
+<a href="https://www.aseprite.org/">
+  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=aseprite&logo=aseprite&style=for-the-badge&logoColor=white&labelColor=181825&color=7d929e" />
+</a>
+<a href="https://www.blender.org/">
+  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=blender&logo=blender&style=for-the-badge&logoColor=white&labelColor=181825&color=ff681b" />
 </a>
 
 <a href="https://git-scm.com/">
   <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=git&logo=git&style=for-the-badge&logoColor=white&labelColor=181825&color=ffa500" /> 
 </a>
-<a href="https://www.aseprite.org/">
-  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=aseprite&logo=aseprite&style=for-the-badge&logoColor=white&labelColor=181825&color=7d929e" />
-</a>
 <a href="https://love2d.org/">
   <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=love2D&logo=lua&style=for-the-badge&logoColor=white&labelColor=181825&color=ff5a77 " />
 </a>
-</div>
-
-<div align="center">
-
-## # things I want to learn
-
-<a href="https://www.vulkan.org/">
-  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=vulkan&logo=vulkan&style=for-the-badge&logoColor=white&labelColor=181825&color=ff4d4d" /> 
-</a>
-<a href="https://godotengine.org/">
-  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=godotengine&logo=godotengine&style=for-the-badge&logoColor=white&labelColor=181825&color=67b2ff" />
+<a href="https://bevyengine.org/">
+  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=Bevy&logo=bevy&style=for-the-badge&logoColor=white&labelColor=181825&color=7a49a5 " />
 </a>
 
-<a href="https://docs.ansible.com/">
-  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=ansible&logo=ansible&style=for-the-badge&logoColor=white&labelColor=181825&color=c71585" /> 
-</a>
-<a href="https://www.blender.org/">
-  <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=&message=blender&logo=blender&style=for-the-badge&logoColor=white&labelColor=181825&color=ff681b" />
-</a>
 </div>
 
 #### *how to reach me*
